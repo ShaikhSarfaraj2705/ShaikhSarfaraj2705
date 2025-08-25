@@ -1,72 +1,57 @@
+# 👋 Hi, I'm Sarfaraj  
+**BCA Graduate | Aspiring Software Developer | Passionate about Python, Java, and Web Development**  
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ShaikhSarfaraj2705)
-<h1 align="center">Hi 👋, I'm Sarfaraj</h1>
+![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20Views&color=0e75b6&style=flat)
 
-<p align="center">
-  <em>BCA graduate | Aspiring Software Developer | Passionate about Python, Java, and Web Development</em>
-</p>
+---
 
-<hr/>
+## 🚀 About Me  
+- 🔭 I’m currently working on **Python**  
+- 🌱 I’m currently learning **Data Analytics**  
+- 📫 How to reach me: **shaikhsarafaraj62@gmail.com**  
+- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)  
 
-<h2>🚀 About Me</h2>
-<ul>
-  <li>🔭 I’m currently working on <b>Python</b></li>
-  <li>🌱 I’m currently learning <b>Data Analytics</b></li>
-  <li>📫 How to reach me: <a href="mailto:shaikhsarafaraj62@gmail.com">shaikhsarafaraj62@gmail.com</a></li>
-  <li>🌐 LinkedIn: 
-    <a href="https://www.linkedin.com/in/sarfaraj-shaikh-373387294" target="_blank">
-      Click Here
-    </a>
-  </li>
-</ul>
+---
 
-<hr/>
+## 🔧 Tech Stack  
+- **Languages:** Python, Java  
+- **Web:** HTML, CSS, JavaScript, PHP  
+- **Databases:** MySQL  
 
-<h2>🔧 Tech Stack</h2>
-<ul>
-  <li><b>Languages:</b> Python, Java</li>
-  <li><b>Web:</b> HTML, CSS, JavaScript, PHP</li>
-  <li><b>Databases:</b> MySQL</li>
-</ul>
+---
 
-<hr/>
+## 📂 Major Projects  
+- 🗳️ **Online Voting System** – A secure voting platform built with PHP & MySQL  
+- 🏥 **Blood Bank Management System** – Manages blood donations, requests, and availability using PHP & MySQL  
 
-<h2>📂 Major Projects</h2>
-<ul>
-  <li><a href="https://github.com/ShaikhSarfaraj2705/online_voting_system" target="_blank">Online Voting System</a></li>
-  <li><a href="https://github.com/ShaikhSarfaraj2705/BBDMS-Project-PHP-V2.4" target="_blank">Blood Bank Management System</a></li>
-</ul>
+## 📂 Minor Projects  
+- 💰 **Expense Tracker** – Tracks daily expenses with CRUD and filters using PHP & JS  
 
-<h2>📂 Minor Projects</h2>
-<ul>
-  <li><a href="https://github.com/ShaikhSarfaraj2705/expense-tracker" target="_blank">Expense Tracker</a></li>
-</ul>
+---
 
-<hr/>
+## 📜 Certifications  
+- 🎓 **Udemy:** Python Programming  
+- 🎓 **Infosys Springboard:** Java Programming with OOP’s  
 
-<h2>📜 Certifications</h2>
-<ul>
-  <li>Udemy: Python Programming</li>
-  <li>Infosys Springboard: Java Programming with OOP’s</li>
-</ul>
+---
 
-<hr/>
+## 🤝 Connect with Me  
 
-<h2>🤝 Connect with Me</h2>
-<p>
-  <a href="mailto:shaikhsarafaraj62@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<p align="left">
+  <a href="mailto:shaikhsarafaraj62@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/0077b6/new-post.png" width="40" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/sarfaraj-shaikh-373387294" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/0077b6/linkedin.png" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/YourUsername" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/50/0077b6/github.png" width="40" alt="GitHub"/>
   </a>
 </p>
 
-<hr/>
+---
 
-<h2>🔚 Summary</h2>
-<p>
-  BCA graduate with strong skills in <b>Python, Java, PHP, and MySQL</b>. Experienced in developing web-based projects like 
-  <i>Expense Tracker</i> and <i>Blood Bank Management System</i>. Eager to begin a career in IT and contribute to 
-  <b>software development and problem-solving</b>.
-</p>
+## 🔚 Summary  
+BCA graduate with strong skills in **Python, Java, PHP, and MySQL**.  
+Experienced in developing web-based projects like **Expense Tracker** and **Blood Bank Management System**.  
+Eager to begin a career in IT and contribute to **software development and problem-solving**.  
