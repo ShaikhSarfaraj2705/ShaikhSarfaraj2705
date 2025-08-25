@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarfaraj</h1>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ShaikhSarfaraj2705)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ShaikhSarfaraj2705&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
