@@ -3,7 +3,7 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ShaikhSarfaraj2705&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+</p
 
 <p align="center">
   <em>BCA graduate | Aspiring Software Developer | Passionate about Python, Java, and Web Development</em>
