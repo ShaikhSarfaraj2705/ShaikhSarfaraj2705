@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - Databases: MySQL
 
 ## 📂 Major Projects
-- [online_voting_system](https://github.com/ShaikhSarfaraj2705/online_voting_system)     -
+- [online_voting_system](https://github.com/ShaikhSarfaraj2705/online_voting_system)     
 - [Blood Bank Management System](https://github.com/ShaikhSarfaraj2705/BBDMS-Project-PHP-V2.4)
 
 ## 📂 Minor Projects
