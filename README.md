@@ -37,23 +37,19 @@
 
 ## 🤝 Connect with Me  
 
-<div align="left">
+<p align="center">
   <a href="mailto:shaikhsarafaraj62@gmail.com" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0077b6/new-post.png" width="50" alt="Email"/>
   </a>
-</div>
-
-<div align="center">
+  &nbsp;&nbsp;&nbsp; <!-- spacing -->
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0077b6/linkedin.png" width="50" alt="LinkedIn"/>
   </a>
-</div>
-
-<div align="right">
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/YourUsername" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/50/0077b6/github.png" width="50" alt="GitHub"/>
   </a>
-</div>
+</p>
 
 ---
 
