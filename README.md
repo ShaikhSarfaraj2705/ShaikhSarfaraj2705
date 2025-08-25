@@ -5,7 +5,7 @@
   <em>BCA graduate | Aspiring Software Developer | Passionate about Python, Java, and Web Development</em>
 </p>
 
-<hr/>
+
 
 ---
 
