@@ -1,7 +1,7 @@
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ShaikhSarfaraj2705)
 # 👋 Hi, I'm Sarfaraj  
 **BCA Graduate | Aspiring Software Developer | Passionate about Python, Java, and Web Development**  
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
@@ -40,10 +40,10 @@
 <p align="left">
   <a href="mailto:shaikhsarafaraj62@gmail.com" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0077b6/new-post.png" width="40" alt="Email"/>
-  </a>
+  </a><br>
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0077b6/linkedin.png" width="40" alt="LinkedIn"/>
-  </a>
+  </a><br>
   <a href="https://github.com/YourUsername" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/50/0077b6/github.png" width="40" alt="GitHub"/>
   </a>
