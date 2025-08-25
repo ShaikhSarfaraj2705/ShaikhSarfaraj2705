@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarfaraj</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=ShaikhSarfaraj2705&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
