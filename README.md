@@ -37,6 +37,6 @@ https://cdn.prod.website-files.com/5f15081919fdf673994ab5fd/63ed1f028c1c9e76de76
 - <a href="https://www.linkedin.com/in/sarfaraj-shaikh-373387294" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarfaraj-shaikh-373387294" height="30" width="40" /></a>
 
 - Gmail: shaikhsarafaraj62@gmail.com
-- <a href="https://www.linkedin.com/in/sarfaraj-shaikh-373387294" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarfaraj-shaikh-373387294" height="30" width="40" /></a>
+- LinkedIn: <a href="https://www.linkedin.com/in/sarfaraj-shaikh-373387294" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarfaraj-shaikh-373387294" height="30" width="40" /></a>
 
 </p>
