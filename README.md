@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on **Python**
+-  🌱 I’m currently learning **Data Analytics**
+- 📫 How to reach me **https://www.linkedin.com/in/sarfaraj-shaikh-373387294**
 ## 🔧 Tech Stack
 - Languages: Python, Java
 - Web: HTML, CSS, JavaScript, PHP
