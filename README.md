@@ -1,7 +1,11 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ShaikhSarfaraj2705)
-# 👋 Hi, I'm Sarfaraj  
-**BCA Graduate | Aspiring Software Developer | Passionate about Python, Java, and Web Development**  
+<h1 align="center">Hi 👋, I'm Sarfaraj</h1>
 
+<p align="center">
+  <em>BCA graduate | Aspiring Software Developer | Passionate about Python, Java, and Web Development</em>
+</p>
+
+<hr/>
 
 ---
 
