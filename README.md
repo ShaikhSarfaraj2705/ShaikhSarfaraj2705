@@ -36,10 +36,10 @@ Here are some ideas to get you started:
  - Infosys Springboard: Java Programming with OOP’s 
 
 <h3 align="left"> 🤝 Connect with me:</h3>
-<p align="left">
-Gmail: shaikhsarafaraj62@gmail.com <br>
-LinkedIn: <a href="https://www.linkedin.com/in/sarfaraj-shaikh-373387294" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarfaraj-shaikh-373387294" height="30" width="40" /></a>
-</p>
+
+ - Gmail: shaikhsarafaraj62@gmail.com <br>
+ - LinkedIn: <a href="https://www.linkedin.com/in/sarfaraj-shaikh-373387294" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarfaraj-shaikh-373387294" height="30" width="40" /></a>
+
 
 ## 🔚 Summary
 BCA graduate with strong skills in Python, Java, PHP, and MySQL. Experienced in developing web-based projects like Expense Tracker and Blood Bank Management System. Eager to begin a career in IT and contribute to software development and problem-solving.
