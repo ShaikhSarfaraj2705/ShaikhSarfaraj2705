@@ -26,12 +26,18 @@ Here are some ideas to get you started:
 - [online_voting_system](https://github.com/ShaikhSarfaraj2705/online_voting_system)
 - [Blood Bank Management System](https://github.com/ShaikhSarfaraj2705/BBDMS-Project-PHP-V2.4)
 
+https://cdn.prod.website-files.com/5f15081919fdf673994ab5fd/63ed1f028c1c9e76de764490_Gmail%20Logo.svg
+
 ## 📂 Minor Projects
 - [expense-tracker](https://github.com/ShaikhSarfaraj2705/expense-tracker)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://www.linkedin.com/in/sarfaraj-shaikh-373387294" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rushikesh-jadhav01/" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/sarfaraj-shaikh-373387294" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarfaraj-shaikh-373387294" height="30" width="40" /></a>
+<a href="shaikhsarafaraj62@gmail.com" target="blank"> <img align="center" src="https://cdn.prod.website-files.com/5f15081919fdf673994ab5fd/63ed1f028c1c9e76de764490_Gmail%20Logo.svg"alt="shaikhsarafaraj62@gmail.com
+" height="30" width="40" /></a>
+
 - LinkedIn: [SARFARAJ SHAIKH](https://www.linkedin.com/in/sarfaraj-shaikh-373387294)
 - Email: shaikhsarafaraj62@gmail.com
+</p>
