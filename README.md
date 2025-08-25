@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 - [online_voting_system](https://github.com/ShaikhSarfaraj2705/online_voting_system)
 - [Blood Bank Management System](https://github.com/ShaikhSarfaraj2705/BBDMS-Project-PHP-V2.4)
 
-https://cdn.prod.website-files.com/5f15081919fdf673994ab5fd/63ed1f028c1c9e76de764490_Gmail%20Logo.svg
-
 ## 📂 Minor Projects
 - [expense-tracker](https://github.com/ShaikhSarfaraj2705/expense-tracker)
 
