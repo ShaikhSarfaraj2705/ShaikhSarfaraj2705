@@ -47,6 +47,16 @@
 </p>
 
 ---
+### 📌 Recent GitHub Activity
+<!--START_SECTION:activity-->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<ShaikhSarfaraj2705>/<ShaikhSarfaraj2705>/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<ShaikhSarfaraj2705>/<ShaikhSarfaraj2705>/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/<ShaikhSarfaraj2705>/<ShaikhSarfaraj2705>/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+<!--END_SECTION:activity-->
 
 ## 🤝 Connect with Me  
 
