@@ -38,6 +38,8 @@
 - 🎓 **Infosys Springboard:** Java Programming with OOP’s
 ---
 ## 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/<ShaikhSarfaraj2705>/<ShaikhSarfaraj2705>/output/dist/snake.svg)
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aman123443/aman123443/output/github-contribution-grid-snake-dark.svg" />
