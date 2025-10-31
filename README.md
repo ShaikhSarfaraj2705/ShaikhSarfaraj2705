@@ -10,10 +10,7 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 I’m currently working on **Python**  
-- 🌱 I’m currently learning **Data Analytics**  
-- 📫 How to reach me: **shaikhsarafaraj62@gmail.com**  
-- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 🔭 I’m currently working on **Python**  - 🌱 I’m currently learning **Data Analytics**  - 📫 How to reach me: **shaikhsarafaraj62@gmail.com**  - 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)  
 
 ---
 
@@ -24,6 +21,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 ---
 
