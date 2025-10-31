@@ -43,7 +43,7 @@ Designed a responsive front-end ensuring seamless user experience.
 ---
 
 ## 📜 Certifications  
-- 🎓 **Udemy:**Certified in Python Programming  Course on Udemy by CodeWithHarry.  
+- 🎓 **Udemy:** Certified in Python Programming  Course on Udemy by CodeWithHarry.  
 - 🎓 **Infosys Springboard:** Certified in Introduction to Python  Course on Infosys Springboard.
 - 🎓 **NationSkill-Up:** Completed a 9-week Data Analytics Course by National Skill Up in collaboration with GeeksforGeeks.
 - 🎓 **EduSkills:** Successfully Finished a 10-week Data Science training program by Eduskills.
@@ -78,5 +78,5 @@ Designed a responsive front-end ensuring seamless user experience.
 
 ## 🔚 Summary  
 BCA graduate with strong skills in **Python, Java, PHP, and MySQL**.  
-Experienced in developing web-based projects like **Expense Tracker** and **Blood Bank Management System**.  
+Experienced in developing web-based projects like **Zomato Data Analysis** and **Eccommerce Application**.  
 Eager to begin a career in IT and contribute to **software development and problem-solving**.  
