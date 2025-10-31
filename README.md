@@ -10,7 +10,8 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 I’m currently working on **Python**  - 🌱 I’m currently learning **Data Analytics**  - 📫 How to reach me: **shaikhsarafaraj62@gmail.com**  - 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 🔭 I’m currently working on **Python**  - 🌱 I’m currently learning **Data Analytics**
+- 📫 How to reach me: **shaikhsarafaraj62@gmail.com**  - 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)  
 
 ---
 
