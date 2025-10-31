@@ -18,24 +18,35 @@
 ---
 
 ## 🔧 Tech Stack  
-- **Languages:** Python, Java  
+- **Languages:** Python, Java ,C 
 - **Web:** HTML, CSS, JavaScript, PHP  
 - **Databases:** MySQL  
 
 ---
 
 ## 📂 Major Projects  
-- 🗳️ **Online Voting System** – A secure voting platform built with PHP & MySQL  
-- 🏥 **Blood Bank Management System** – Manages blood donations, requests, and availability using PHP & MySQL  
-
+- 🗳️ **Zomato Data  Analysis** – Developed a Python-based data pipeline to analyze restaurant trends customer behavior.                     
+Developed 8+ visualizations to uncover dining preferences and pricing trends.   
+Created interactive dashboards showcasing online/offline order trends, popular restaurant types, and couple 
+dining cost analysis.  
+- 🏥 **E-commerce Application** –Built a mini e-commerce web application with dynamic product browsing and cart management.        
+Implemented backend logic for product selection, cart updates, and real-time price calculation.              
+Designed a responsive front-end ensuring seamless user experience.
 ## 📂 Minor Projects  
-- 💰 **Expense Tracker** – Tracks daily expenses with CRUD and filters using PHP & JS  
+- 💰 **VidSnapAI**
+- 💰 **Kon-Banega-Crorepati**
+- 💰 **Rock-Paper-Scissor**
+- 💰 **Library Management System**
+- 💰 **Expense Tracker**
+
 
 ---
 
 ## 📜 Certifications  
-- 🎓 **Udemy:** Python Programming  
-- 🎓 **Infosys Springboard:** Java Programming with OOP’s
+- 🎓 **Udemy:**Certified in Python Programming  Course on Udemy by CodeWithHarry.  
+- 🎓 **Infosys Springboard:** Certified in Introduction to Python  Course on Infosys Springboard.
+- 🎓 **NationSkill-Up:** Completed a 9-week Data Analytics Course by National Skill Up in collaboration with GeeksforGeeks.
+- 🎓 **EduSkills:** Successfully Finished a 10-week Data Science training program by Eduskills.
 ---
 ## 🐍 Contribution Snake
 <p align="center">
