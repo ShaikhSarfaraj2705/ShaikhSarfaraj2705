@@ -1,17 +1,31 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ShaikhSarfaraj2705)
 <h1 align="center">Hi 👋, I'm Sarfaraj</h1>
 
+---
+
 <p align="center">
   <em>BCA graduate | Aspiring Software Developer | Passionate about Python, Java, and Web Development</em>
 </p>
-
-
 
 ---
 
 ## 🚀 About Me  
 - 🔭 I’m currently working on **Python**  - 🌱 I’m currently learning **Data Analytics**
 - 📫 How to reach me: **shaikhsarafaraj62@gmail.com**  - 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)  
+
+---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShaikhSarfaraj2705&theme=tokyonight&no-frame=true&margin-w=5&row=1"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhSarfaraj2705&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
 
 ---
 
