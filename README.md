@@ -25,6 +25,9 @@
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 ---
+### 🎖️ GitHub Achievements
+- 🐙 **Arctic Code Vault Contributor** - 🦈 **Pull Shark** - ⚡ **Quickdraw** - 🐵 **YOLO** - 🧩 **Galaxy Brain** ---
+
 
 ## 📂 Major Projects  
 - 🗳️ **Zomato Data  Analysis** – Developed a Python-based data pipeline to analyze restaurant trends customer behavior.                     
