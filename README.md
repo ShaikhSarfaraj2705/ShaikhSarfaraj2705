@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <em>BCA graduate | Aspiring Software Developer | Passionate about Python, Java, and Web Development</em>
+  <em>Aspiring Data Science | Passionate about Python, Java, and Web Development</em>
 </p>
 
 ---
