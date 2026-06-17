@@ -4,13 +4,13 @@
 ---
 
 <p align="center">
-  <em>Aspiring Data Science | Passionate about Python, Java, and Web Development</em>
+  <em>Data Science | Passionate about Python, Java, and Web Development</em>
 </p>
 
 ---
 
 ## 🚀 About Me  
-- 🔭 I’m currently working on **Python**  - 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Data Science**
 - 📫 How to reach me: **shaikhsarafaraj62@gmail.com**  - 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)  
 
 ---
@@ -25,6 +25,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhSarfaraj2705&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShaikhSarfaraj2705&show_icons=true&locale=en" alt="Shaikh Sarfaraj" /></p>
 
 
 ---
