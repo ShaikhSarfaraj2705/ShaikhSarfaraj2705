@@ -18,7 +18,7 @@ Tech Explorer passionate about building intelligent systems, solving complex cha
   
 #  How to reach me:
 - 📫 **shaikhsarafaraj62@gmail.com**
-- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sarfaraj-najir-shaikh-373387294/)  
 
 ---
 
