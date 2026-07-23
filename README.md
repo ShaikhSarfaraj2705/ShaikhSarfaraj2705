@@ -46,9 +46,9 @@ Tech Explorer passionate about building intelligent systems, solving complex cha
       </p>
     </td>
      <td width="50%">
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhSarfaraj2705&layout=compact&theme=tokyonight" alt="Top Languages"/>
-      </p>
+        <p align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikhSarfaraj2705&theme=tokyonight" />
+      </p>   
     </td>
   </tr>
 </table>
@@ -62,7 +62,7 @@ Tech Explorer passionate about building intelligent systems, solving complex cha
     </td>
     <td width="50%">
         <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikhSarfaraj2705&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhSarfaraj2705&layout=compact&theme=tokyonight" alt="Top Languages"/>
       </p>
     </td>
   </tr>
