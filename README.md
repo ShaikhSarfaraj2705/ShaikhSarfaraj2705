@@ -88,7 +88,7 @@ Tech Explorer passionate about building intelligent systems, solving complex cha
     <img src="https://img.icons8.com/ios-filled/50/0077b6/new-post.png" width="50" alt="Email"/>
   </a>
   &nbsp;&nbsp;&nbsp; <!-- spacing -->
-  <a href="https://www.linkedin.com/in/sarfaraj-shaikh-373387294/" target="_blank">
+  <a href="https://www.linkedin.com/in/sarfaraj-najir-shaikh-373387294/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0077b6/linkedin.png" width="50" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
